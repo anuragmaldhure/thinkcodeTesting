@@ -1,0 +1,14 @@
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using thinkbridge.Grp2BackendAN.Core.Constants;
+global using thinkbridge.Grp2BackendAN.DataAccess.Persistence;
+global using thinkbridge.Grp2BackendAN.DataAccess.Repositories;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using thinkbridge.Grp2BackendAN.DataAccess.Common;
+global using thinkbridge.Grp2BackendAN.DataAccess.Interfaces;
+global using thinkbridge.Grp2BackendAN.Core.Common;
+global using static thinkbridge.Grp2BackendAN.Core.Enums.PaginationEnums;
+global using thinkbridge.Grp2BackendAN.Core;
+global using thinkbridge.Grp2BackendAN.Core.Entities;

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\services\\services\\todomasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|solutionrelative:src\\services\\services\\todomasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\services\\iservices\\itodomasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|solutionrelative:src\\services\\iservices\\itodomasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2027A3-0E8C-4F38-B7A2-4ADDE3575825}|src\\Core\\thinkbridge.Grp2BackendAN.Core.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\core\\models\\todomasterdtos\\todomasterreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2027A3-0E8C-4F38-B7A2-4ADDE3575825}|src\\Core\\thinkbridge.Grp2BackendAN.Core.csproj|solutionrelative:src\\core\\models\\todomasterdtos\\todomasterreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\api\\controllers\\todomastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|solutionrelative:src\\api\\controllers\\todomastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2027A3-0E8C-4F38-B7A2-4ADDE3575825}|src\\Core\\thinkbridge.Grp2BackendAN.Core.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\core\\models\\todomasterdtos\\todomasterresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2027A3-0E8C-4F38-B7A2-4ADDE3575825}|src\\Core\\thinkbridge.Grp2BackendAN.Core.csproj|solutionrelative:src\\core\\models\\todomasterdtos\\todomasterresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|solutionrelative:src\\api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\services\\services\\todochecklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|solutionrelative:src\\services\\services\\todochecklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\api\\controllers\\todochecklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|solutionrelative:src\\api\\controllers\\todochecklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\services\\iservices\\itodochecklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEB9F0C-6D4F-426B-97B9-6209C42176B1}|src\\Services\\thinkbridge.Grp2BackendAN.Services.csproj|solutionrelative:src\\services\\iservices\\itodochecklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|d:\\thinkcode assignment\\thinkcodetodo\\grp2backendan\\src\\api\\controllers\\todoremindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8915982-406A-451E-9862-37A0EBCB27DB}|src\\Api\\thinkbridge.Grp2BackendAN.Api.csproj|solutionrelative:src\\api\\controllers\\todoremindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoMasterResDto.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterResDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterResDto.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterResDto.cs",
+              "RelativeToolTip": "src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterResDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:53:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoMasterReqDto.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterReqDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterReqDto.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterReqDto.cs",
+              "RelativeToolTip": "src\\Core\\Models\\ToDoMasterDtos\\ToDoMasterReqDto.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:46:20.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoChecklistService.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\Services\\ToDoChecklistService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Services\\ToDoChecklistService.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\Services\\ToDoChecklistService.cs",
+              "RelativeToolTip": "src\\Services\\Services\\ToDoChecklistService.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAnwHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:26:57.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IToDoChecklistService.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\IServices\\IToDoChecklistService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IServices\\IToDoChecklistService.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\IServices\\IToDoChecklistService.cs",
+              "RelativeToolTip": "src\\Services\\IServices\\IToDoChecklistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:26:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoMasterService.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\Services\\ToDoMasterService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Services\\ToDoMasterService.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\Services\\ToDoMasterService.cs",
+              "RelativeToolTip": "src\\Services\\Services\\ToDoMasterService.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAIwPoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:39:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IToDoMasterService.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\IServices\\IToDoMasterService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IServices\\IToDoMasterService.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Services\\IServices\\IToDoMasterService.cs",
+              "RelativeToolTip": "src\\Services\\IServices\\IToDoMasterService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:39:10.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\TeamController.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:23:17.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoChecklistController.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\ToDoChecklistController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\ToDoChecklistController.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\ToDoChecklistController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\ToDoChecklistController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAgwF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:23:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoReminderController.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\ToDoReminderController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\ToDoReminderController.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\ToDoReminderController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\ToDoReminderController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:22:29.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoMasterController.cs",
+              "DocumentMoniker": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\ToDoMasterController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\ToDoMasterController.cs",
+              "ToolTip": "D:\\ThinkCode Assignment\\ThinkCodeToDo\\Grp2BackendAN\\src\\Api\\Controllers\\ToDoMasterController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\ToDoMasterController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwKQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:15:02.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

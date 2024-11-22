@@ -1,0 +1,23 @@
+global using thinkbridge.Grp2BackendAN.Api;
+global using System.Net;
+global using thinkbridge.Grp2BackendAN.Services;
+global using Newtonsoft.Json;
+global using thinkbridge.Grp2BackendAN.Api.Middleware;
+global using thinkbridge.Grp2BackendAN.Api.Extensions;
+global using thinkbridge.Grp2BackendAN.Core.Common.Exceptions;
+global using thinkbridge.Grp2BackendAN.Core.Models.Base;
+global using System.Diagnostics;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using thinkbridge.Grp2BackendAN.DataAccess.Persistence;
+global using thinkbridge.Grp2BackendAN.Api.Controllers.Base;
+global using System.Reflection;
+global using Microsoft.AspNetCore.ResponseCompression;
+global using thinkbridge.Grp2BackendAN.Core.Constants;
+global using thinkbridge.Grp2BackendAN.Core.Models;
+global using AutoMapper;
+global using Newtonsoft.Json.Converters;
+global using Asp.Versioning;
+global using thinkbridge.Grp2BackendAN.Services.IServices;
+global using thinkbridge.Grp2BackendAN.Core.Entities;
+

@@ -1,0 +1,25 @@
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.deps.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.csproj.AssemblyReference.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.AssemblyInfoInputs.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.AssemblyInfo.cs
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.csproj.CoreCompileInputs.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.sourcelink.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\refint\thinkbridge.Grp2BackendAN.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Core\obj\Debug\net8.0\ref\thinkbridge.Grp2BackendAN.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.deps.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.csproj.AssemblyReference.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.AssemblyInfoInputs.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.AssemblyInfo.cs
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.csproj.CoreCompileInputs.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\refint\thinkbridge.Grp2BackendAN.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Core\obj\Debug\net8.0\ref\thinkbridge.Grp2BackendAN.Core.dll

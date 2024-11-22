@@ -1,0 +1,315 @@
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.API.exe
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.API.deps.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.API.runtimeconfig.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.API.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.API.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.csproj.AssemblyReference.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.AssemblyInfoInputs.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.AssemblyInfo.cs
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.csproj.CoreCompileInputs.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.sourcelink.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.thinkbridge.Grp2BackendAN.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.thinkbridge.Grp2BackendAN.API.props
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.thinkbridge.Grp2BackendAN.API.props
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.thinkbridge.Grp2BackendAN.API.props
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\scopedcss\bundle\thinkbridge.Grp2BackendAN.API.styles.css
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\refint\thinkbridge.Grp2BackendAN.API.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.API.genruntimeconfig.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\ref\thinkbridge.Grp2BackendAN.API.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Api\obj\Debug\net8.0\thinkbri.A5564A28.Up2Date
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\appsettings.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.exe
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.deps.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.runtimeconfig.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Asp.Versioning.Http.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\AutoMapper.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Castle.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\FluentValidation.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Humanizer.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.csproj.AssemblyReference.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.AssemblyInfoInputs.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.AssemblyInfo.cs
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.csproj.CoreCompileInputs.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.thinkbridge.Grp2BackendAN.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.thinkbridge.Grp2BackendAN.Api.props
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.thinkbridge.Grp2BackendAN.Api.props
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.thinkbridge.Grp2BackendAN.Api.props
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\scopedcss\bundle\thinkbridge.Grp2BackendAN.Api.styles.css
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbri.A5564A28.Up2Date
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\refint\thinkbridge.Grp2BackendAN.Api.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Api.genruntimeconfig.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Api\obj\Debug\net8.0\ref\thinkbridge.Grp2BackendAN.Api.dll

@@ -1,0 +1,23 @@
+global using Xunit;
+global using FluentAssertions;
+global using FluentValidation;
+global using System.Net;
+global using Bogus;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+
+global using static thinkbridge.Grp2BackendAN.Core.Enums.PaginationEnums;
+global using thinkbridge.Grp2BackendAN.Core.Models.Base;
+global using thinkbridge.Grp2BackendAN.DataAccess.Persistence;
+global using thinkbridge.Grp2BackendAN.Core.Common.Exceptions;
+global using thinkbridge.Grp2BackendAN.Core.Common;
+global using thinkbridge.Grp2BackendAN.Services;
+global using thinkbridge.Grp2BackendAN.DataAccess;
+global using thinkbridge.Grp2BackendAN.Core;
+global using thinkbridge.Grp2BackendAN.Core.Models;
+global using thinkbridge.Grp2BackendAN.Api;
+global using thinkbridge.Grp2BackendAN.UnitTests;
+global using thinkbridge.Grp2BackendAN.Core.Entities;
+global using thinkbridge.Grp2BackendAN.Services.IServices;

@@ -1,0 +1,35 @@
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.deps.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.csproj.AssemblyReference.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.AssemblyInfoInputs.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.AssemblyInfo.cs
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.csproj.CoreCompileInputs.cache
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.sourcelink.json
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbri.8240A215.Up2Date
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\refint\thinkbridge.Grp2BackendAN.Services.dll
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.pdb
+C:\Users\kavi-server\Documents\code-prod-api\ProjectClones\grp2backendan-Tmp\src\Services\obj\Debug\net8.0\ref\thinkbridge.Grp2BackendAN.Services.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.deps.json
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.DataAccess.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\bin\Debug\net8.0\thinkbridge.Grp2BackendAN.Core.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.csproj.AssemblyReference.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.AssemblyInfoInputs.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.AssemblyInfo.cs
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.csproj.CoreCompileInputs.cache
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbri.8240A215.Up2Date
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\refint\thinkbridge.Grp2BackendAN.Services.dll
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\thinkbridge.Grp2BackendAN.Services.pdb
+D:\ThinkCode Assignment\ThinkCodeToDo\Grp2BackendAN\src\Services\obj\Debug\net8.0\ref\thinkbridge.Grp2BackendAN.Services.dll
