@@ -45,6 +45,26 @@ namespace thinkbridge.Grp2BackendAN.Core.Models
         public DateTime? EndDate { get; set; }
     }
 
+    //Report 4 DTO
+    public class TaskCompletionPerUserDto
+    {
+        /// <summary>
+        /// Gets or sets the user identifier.
+        /// </summary>
+        public string UserId { get; set; }
+
+        /// <summary>
+        /// Gets or sets the count of completed tasks.
+        /// </summary>
+        public int CompletedTaskCount { get; set; }
+
+        /// <summary>
+        /// Gets or sets the name of the user or team.
+        /// </summary>
+        public string UserNameOrTeamName { get; set; }
+    }
+
+
 
 
     public class GetAllToDoMasterReqDto : BasePagination

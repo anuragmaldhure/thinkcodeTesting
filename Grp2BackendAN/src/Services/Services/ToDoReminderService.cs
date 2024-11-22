@@ -62,7 +62,41 @@ public class ToDoReminderService : IToDoReminderService
         await _dbContext.SaveChangesAsync(); // Saves changes to the database
         return new BaseResponse(); // Returns a base response
      }
-       
+
+
+
+    /// <summary>
+    /// Retrieves reminders set for a specified date.
+    /// </summary>
+    /// <param name="date">The date for which to retrieve reminders.</param>
+    /// <param name="cancellationToken">Token to monitor for cancellation requests.</param>
+    /// <returns>A task that represents the asynchronous operation. The task result contains the list of reminder DTOs.</returns>
+    /// <exception cref="ArgumentException">Thrown when the provided date is a default value.</exception>
+    public async Task<ListResponse<ReminderDto>> GetRemindersForDate(DateTime date, CancellationToken cancellationToken)
+    {
+        if (date == default)
+            throw new ArgumentException("Date cannot be default value.", nameof(date));
+
+        var reminders = await _dbContext.ToDoReminders
+            .Where(r => r.SetForDateTime.Date == date.Date)
+            .Join(_dbContext.AspNetUsers, r => r.SetById, u => u.Id, (r, u) => new { r, SetByName = u.FirstName + " " + u.LastName })
+            .Join(_dbContext.ToDoMasters, ru => ru.r.ToDoTaskId, t => t.ToDoTaskId, (ru, t) => new { ru.r, ru.SetByName, t })
+            .Join(_dbContext.AspNetUsers, rut => rut.t.AssignedToId, a => a.Id, (rut, a) => new ReminderDto
+            {
+                ReminderId = rut.r.ReminderId,
+                SetById = rut.r.SetById,
+                SetByName = rut.SetByName,
+                ToDoTaskId = rut.t.ToDoTaskId,
+                TaskTitle = rut.t.Title,
+                AssignedToId = rut.t.AssignedToId,
+                AssignedToName = a.FirstName + " " + a.LastName,
+                IsActive = rut.r.IsActive
+            })
+            .ToListAsync(cancellationToken);
+
+        return new ListResponse<ReminderDto> { Data = reminders };
+    }
+    
 }
 
 

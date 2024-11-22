@@ -308,6 +308,53 @@ public class ToDoMasterService : IToDoMasterService
             throw new Exception("An error occurred while retrieving overdue tasks.", ex);
         }
     }
+
+
+    //Report 4
+
+
+
+    /// <summary>
+    /// Retrieves the number of tasks completed by each user in the past 7 days.
+    /// </summary>
+    /// <param name="cancellationToken">Propagates notification that operations should be canceled.</param>
+    /// <returns>A list response containing task completion count per user.</returns>
+    public async Task<ListResponse<TaskCompletionPerUserDto>> GetTasksCompletedLast7DaysPerUser(CancellationToken cancellationToken)
+    {
+        if (cancellationToken == null) throw new ArgumentNullException(nameof(cancellationToken));
+
+        try
+        {
+            var sevenDaysAgo = DateTime.UtcNow.AddDays(-7).Date;
+            var yesterday = DateTime.UtcNow.Date;
+
+            var completedTasks = await _dbContext.ToDoMasters
+                .Where(t => t.CompletedDate.HasValue && t.CompletedDate.Value >= sevenDaysAgo && t.CompletedDate.Value < yesterday && !t.IsDeleted)
+                .GroupBy(t => t.AssignedToId)
+                .Select(userGroup => new TaskCompletionPerUserDto
+                {
+                    UserId = userGroup.Key,
+                    CompletedTaskCount = userGroup.Count(),
+                    UserNameOrTeamName = _dbContext.AspNetUsers
+                        .Where(u => u.Id == userGroup.Key)
+                        .Select(u => u.FirstName + " " + u.LastName)
+                        .FirstOrDefault() ?? _dbContext.Teams
+                        .Where(tm => tm.TeamId.ToString() == userGroup.Key.ToString())
+                        .Select(tm => tm.TeamName)
+                        .FirstOrDefault() ?? "Unknown"
+                })
+                .ToListAsync(cancellationToken);
+
+            return new ListResponse<TaskCompletionPerUserDto> { Data = completedTasks };
+        }
+        catch (Exception ex)
+        {
+            // Log exception here as per the logging strategy
+            throw new ApplicationException("An error occurred while retrieving completed tasks.", ex);
+        }
+    }
+
+
 }
 
 

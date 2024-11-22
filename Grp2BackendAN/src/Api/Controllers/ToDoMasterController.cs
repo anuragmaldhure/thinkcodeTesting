@@ -162,6 +162,22 @@ namespace thinkbridge.Grp2BackendAN.Api.Controllers
             var result = await _servicesCollection.ToDoMasterServices.GetOverdueTasks(userId, dateRangeDto.StartDate, dateRangeDto.EndDate, cancellationToken);
             return HandleResult(result);
         }
+
+
+        //Report -3 
+
+        /// <summary>
+        /// API endpoint to retrieve tasks completed by each user in the last 7 days.
+        /// </summary>
+        /// <param name="cancellationToken">The cancellation token to cancel the operation.</param>
+        /// <returns>A Task result containing ActionResult with list of TaskCompletionPerUserDto.</returns>
+        [HttpGet("GetTasksCompletedLast7DaysPerUser")]
+        public async Task<ActionResult<ListResponse<TaskCompletionPerUserDto>>> GetTasksCompletedLast7DaysPerUser(CancellationToken cancellationToken)
+        {
+            var result = await _servicesCollection.ToDoMasterServices.GetTasksCompletedLast7DaysPerUser(cancellationToken);
+            return HandleResult(result);
+        }
+        
     }
 }
 

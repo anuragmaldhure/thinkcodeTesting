@@ -76,6 +76,24 @@ namespace thinkbridge.Grp2BackendAN.Api.Controllers
            return HandleResult(result);
         }
 
+
+        //Report 3
+
+        /// <summary>
+        /// API endpoint to retrieve reminders for a specific date.
+        /// </summary>
+        /// <param name="dateDto">The date DTO containing the date.</param>
+        /// <param name="cancellationToken">Token to cancel the operation.</param>
+        /// <returns>HTTP Action result containing a list response of reminders.</returns>
+        [HttpPost("GetRemindersForDate")]
+        public async Task<ActionResult<ListResponse<ReminderDto>>> GetRemindersForDate([FromBody] DateDto dateDto, CancellationToken cancellationToken)
+        {
+            if (dateDto == null)
+                return BadRequest("Date must be provided.");
+
+            var result = await _servicesCollection.ToDoReminderServices.GetRemindersForDate(dateDto.Date, cancellationToken);
+            return HandleResult(result);
+        }
     }
 }
 

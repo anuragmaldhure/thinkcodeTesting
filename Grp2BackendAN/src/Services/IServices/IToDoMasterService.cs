@@ -37,6 +37,16 @@ public interface IToDoMasterService
     /// <returns>A list of overdue tasks as a <see cref="ListResponse{ToDoMasterDto}"/>.</returns>
     Task<ListResponse<ToDoMasterDto>> GetOverdueTasks(string? userId, DateTime? startDate, DateTime? endDate, CancellationToken cancellationToken);
 
+
+
+    //Report 4 
+
+    /// <summary>
+    /// Retrieves a list of the number of tasks completed by each user in the last 7 days.
+    /// </summary>
+    /// <param name="cancellationToken">The cancellation token to cancel the operation.</param>
+    /// <returns>A Task containing a ListResponse of TaskCompletionPerUserDto.</returns>
+    Task<ListResponse<TaskCompletionPerUserDto>> GetTasksCompletedLast7DaysPerUser(CancellationToken cancellationToken);
 }
 
 

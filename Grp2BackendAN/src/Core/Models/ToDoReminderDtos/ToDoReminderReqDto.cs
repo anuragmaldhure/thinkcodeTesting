@@ -2,6 +2,27 @@
 namespace thinkbridge.Grp2BackendAN.Core.Models
 {
 
+    //Report 3 DTOs
+    public class ReminderDto
+    {
+        public int ReminderId { get; set; }
+        public string SetById { get; set; }
+        public string SetByName { get; set; }
+        public int ToDoTaskId { get; set; }
+        public string TaskTitle { get; set; }
+        public string AssignedToId { get; set; }
+        public string AssignedToName { get; set; }
+        public bool IsActive { get; set; }
+    }
+
+    public class DateDto
+    {
+        public DateTime Date { get; set; }
+    }
+
+
+
+
     public class GetAllToDoReminderReqDto : BasePagination
     {     
      
